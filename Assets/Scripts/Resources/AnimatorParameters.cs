@@ -11,4 +11,9 @@
         public static string PlayerDead = "PlayerDead";
         public static string Dead = "Dead";
     }
+
+    public static class GameManager
+    {
+        public static string GameOver = "GameOver";
+    }
 }
