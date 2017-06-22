@@ -9,5 +9,6 @@
     public static class Enemy
     {
         public static string PlayerDead = "PlayerDead";
+        public static string Dead = "Dead";
     }
 }
